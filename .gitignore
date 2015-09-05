@@ -33,3 +33,6 @@ node_modules
 
 # configファイル
 config.js
+
+# sgfファイルが格納されているディレクトリ
+sgfdatas
